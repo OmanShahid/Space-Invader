@@ -1,0 +1,24 @@
+﻿  menu.cpp
+  Source (1).cpp
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(53,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(53,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(64,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(64,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(191,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(309,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(309,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(354,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(354,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,48): warning C4244:         with
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,48): warning C4244:         [
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,48): warning C4244:             T=unsigned int
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,48): warning C4244:         ]
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,28): warning C4244:         with
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,28): warning C4244:         [
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,28): warning C4244:             T=unsigned int
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(357,28): warning C4244:         ]
+  Generating Code...
+D:\Shahid Iqbal\Final PF project gotta run\Source (1).cpp(342,1): warning C4715: 'gameEnd': not all control paths return a value
+  Final PF project gotta run.vcxproj -> D:\Shahid Iqbal\Final PF project gotta run\x64\Debug\Final PF project gotta run.exe
